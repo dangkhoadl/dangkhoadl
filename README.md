@@ -1,4 +1,3 @@
-
 <!-- - 👋 Hi, I’m @dangkhoadl
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,8 +7,8 @@
 
 <p align="center">
   @dangkhoadl<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoadl&layout=compact&langs_count=10" />
-  <img src="https://api.githubtrends.io/user/svg/dangkhoadl/langs" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoadl&layout=compact&langs_count=10" /> -->
+  <img src="https://api.githubtrends.io/user/svg/dangkhoadl/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
 </p>
 
 <p align="center"> 
