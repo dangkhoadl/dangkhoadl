@@ -7,7 +7,7 @@
 
 <p align="center">
   @dangkhoadl<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoadl&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoadl&layout=compact&langs_count=10" />
 </p>
 
 <p align="center"> 
