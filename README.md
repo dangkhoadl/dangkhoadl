@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-![Visitor Count](https : //profile-counter.glitch.me/dangkhoadl/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/dangkhoadl/count.svg)
