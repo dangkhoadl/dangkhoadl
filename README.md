@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
+- 👀 @dangkhoadl
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoadl&layout=compact" />
 </p>
