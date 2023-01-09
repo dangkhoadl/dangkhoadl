@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-- 👀 @dangkhoadl
 
-<p align="left"> 
+<p align="center">
+  @dangkhoadl<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoadl&layout=compact" />
 </p>
 
-<p align="left"> 
+<p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/dangkhoadl/count.svg" />
 </p>
