@@ -6,11 +6,11 @@
 
 - 👀 @dangkhoadl
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoadl&layout=compact" />
 </p>
 
-<p align="center"> 
+<p align="left"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/dangkhoadl/count.svg" />
 </p>
