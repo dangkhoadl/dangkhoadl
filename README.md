@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
+<p align="center"> 
+  Visitor Count @dangkhoadl<br>
+  <img src="https://profile-counter.glitch.me/dangkhoadl/count.svg" />
+</p>
+
 ### I’m currently working on 👀
 - Automatic Speech Recognition (ASR) System
 - Audio and Text Data Analytics
@@ -17,10 +22,6 @@
 - CV: [github.com/dangkhoadl/my-resume/blob/master/dangledangkhoa.pd](https://github.com/dangkhoadl/my-resume/blob/master/dangledangkhoa.pdf)
 - Linkdin: [linkedin.com/in/dangledangkhoa/](https://www.linkedin.com/in/dangledangkhoa/)
 
-<p align="center"> 
-  @dangkhoadl visitor Count<br>
-  <img src="https://profile-counter.glitch.me/dangkhoadl/count.svg" />
-</p>
 
 <p align="center">
   <img src="https://api.githubtrends.io/user/svg/dangkhoadl/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" />
