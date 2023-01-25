@@ -19,7 +19,7 @@
 
 ### How to reach me 📫
 - Email: [dangledangkhoa@gmail.com](mailto:dangledangkhoa@gmail.com)
-- CV: [github.com/dangkhoadl/my-resume/blob/master/dangledangkhoa.pdf](https://github.com/dangkhoadl/my-resume/blob/master/dangledangkhoa.pdf)
+- Résume: [github.com/dangkhoadl/my-resume/blob/master/dangledangkhoa.pdf](https://github.com/dangkhoadl/my-resume/blob/master/dangledangkhoa.pdf)
 - Linkdin: [linkedin.com/in/dangledangkhoa/](https://www.linkedin.com/in/dangledangkhoa/)
 
 
