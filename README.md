@@ -10,11 +10,10 @@
 </p>
 
 ### I’m currently working on 👀
+- Applied Deep Learning for Natural Language Processing and Speech Recognition
 - Automatic Speech Recognition (ASR) System
-- Audio and Text Data Analytics
 
 ### I’m currently learning 🌱
-- Applied Deep Learning and Machine Learning for Natural Language Processing
 - Pytorch, C++, Numpy
 
 ### How to reach me 📫
