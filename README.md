@@ -10,11 +10,11 @@
 </p>
 
 ### I’m currently working on 👀
-- Applied Deep Learning for Natural Language Processing and Speech Recognition
+- Applied Deep Learning for Natural Language Processing and Speech Processing
 - Automatic Speech Recognition (ASR) System
 
-### I’m currently learning 🌱
-- Pytorch, C++, Numpy
+### My tech stacks 🌱
+- C++, Pytorch, Numpy, Pandas, Bash scripting
 
 ### How to reach me 📫
 - Email: [dangledangkhoa@gmail.com](mailto:dangledangkhoa@gmail.com)
