@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
+<h1 align="center">Hi there 👋, I'm Philips Dang</h1>
+
+I'm an AI Engineer working on Natural Language Processing.
+
+<a href="https://www.linkedin.com/in/dangledangkhoa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <p align="center"> 
   Visitor Count @dangkhoadl<br>
   <img src="https://profile-counter.glitch.me/dangkhoadl/count.svg" />
