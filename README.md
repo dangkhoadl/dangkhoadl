@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<h1 align="center">Hi there 👋, I'm Philips Dang <a href="https://www.linkedin.com/in/dangledangkhoa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></h1> 
+<h1 align="center">Hi there 👋, I'm Phillip Dang <a href="https://www.linkedin.com/in/dangledangkhoa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></h1> 
 
 I'm an AI Engineer working on Natural Language Processing.
 
