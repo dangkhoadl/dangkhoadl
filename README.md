@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Phillip Dang <a href="https://www.linkedin.com/in/dangledangkhoa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></h1> 
 
-Software Engineer - AI/ML
+Machine Learning Engineer
 
 ### How to reach me 📫
 - Email: [dangledangkhoa@gmail.com](mailto:dangledangkhoa@gmail.com)
