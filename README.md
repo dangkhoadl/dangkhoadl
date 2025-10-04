@@ -10,7 +10,6 @@ Machine Learning Engineer
 
 ### How to reach me 📫
 - Email: [dangledangkhoa@gmail.com](mailto:dangledangkhoa@gmail.com)
-- Résume: [github.com/dangkhoadl/my-resume/blob/master/dangledangkhoa.pdf](https://github.com/dangkhoadl/my-resume/blob/master/dangledangkhoa.pdf)
 - Linkedin: [linkedin.com/in/dangledangkhoa/](https://www.linkedin.com/in/dangledangkhoa/)
 
 <p align="center">
